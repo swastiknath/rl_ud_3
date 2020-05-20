@@ -79,7 +79,7 @@ N can be chosen to suit the environment. We use the ***Ornstein-Uhlenbeck proces
    
    
   
-   To train 500 epochs it took around 3 hour and 47 minutes on CPU.
+   To train 3000 episodes it took around 3 hour and 47 minutes on CPU.
 
    ![multiple_agent](https://github.com/swastiknath/rl_ud_3/raw/master/episode_graph.png)
 
