@@ -4,10 +4,10 @@
 [image2]: https://user-images.githubusercontent.com/10624937/42135622-e55fb586-7d12-11e8-8a54-3c31da15a90a.gif "Soccer"
 
 
-# Project 3: Collaboration and Competition
+# Collaboration and Competition
 ***Udacity Deep Reinforcement Learning Nanodegree.***
 
-***Capstone 2: Continuous Control with Policy Gradient Methods***
+***Capstone 3: Collaborating and Competition with Multi-Agent Deep Deterministic Policy Gradient coupled with Actor-Critic.***
 
 ***Swastik Nath.*** 
 
