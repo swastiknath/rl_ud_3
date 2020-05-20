@@ -90,7 +90,7 @@ We use the following set of hyperparameters with the multi agent environment.
 | Hyperparameter | Multi Agent Environment |
 |----------------|-------------------------|
 | Buffer Memory Size |      1e-5       |
-| Batch Size for Experience Replay        128      |    
+| Batch Size for Experience Replay    |    128      |    
 | Discount Factor (Gamma)             |        0.99       |
 | Interpolation Factor (TAU)          |        1e-3       |
 | Learning Rate for Actor (LR) Adam Optimizer      |   2e-4     |
